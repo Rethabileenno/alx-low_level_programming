@@ -1,1 +1,1 @@
-100-print_comb3
+./100-print_comb3
