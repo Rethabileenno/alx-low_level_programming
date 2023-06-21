@@ -1,1 +1,1 @@
-9-print_comb
+./9-print_comb
