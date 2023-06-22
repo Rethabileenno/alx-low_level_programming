@@ -1,1 +1,1 @@
-./100-times_table 
+101-natural.c
