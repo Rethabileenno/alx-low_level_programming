@@ -1,1 +1,1 @@
-0-putchar.c
+./2-alphabet_x10 
