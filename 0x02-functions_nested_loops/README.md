@@ -1,1 +1,1 @@
-./8-24 | head
+9-times_table
