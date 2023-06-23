@@ -1,1 +1,1 @@
-6-print_line.c
+10-print_triangle.c
