@@ -1,1 +1,1 @@
-isupper
+2-mul.c
