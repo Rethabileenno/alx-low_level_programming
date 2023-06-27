@@ -1,1 +1,1 @@
-This report, by its very length, defends itself against the risk of being read
+A good engineer thinks in reverse and asks himself about the stylistic consequences of the components and systems he proposes
