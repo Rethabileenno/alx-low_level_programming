@@ -1,1 +1,1 @@
-2. strchr
+3. strspn
