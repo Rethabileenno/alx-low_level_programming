@@ -1,1 +1,1 @@
-3. strspn
+5-strstr.c
