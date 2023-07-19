@@ -1,1 +1,1 @@
-4. Most hackers are young because young people tend to be adaptable. As long as you remain adaptable, you can always be a good hacker
+3. A goal is not always meant to be reached, it often serves simply as something to aim at
